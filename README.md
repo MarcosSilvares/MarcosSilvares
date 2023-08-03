@@ -1,9 +1,7 @@
-<h1 align="center">Oi 👋, eu sou o Marcos Silvares</h1>
+<h1 align="center">Oi 👋, eu sou o Marcos Silvares!</h1>
 <h3 align="center">Sou apaixonado por dados, estatística e novas tecnologias!</h3>
 
 - 🌱 No momento estou estudando **Python e Machine Learning**
-
-- 👨‍💻 Alguns projetos meus estão aqui: [medium.com/@marcossilvaresmhbsp](https://medium.com/@marcossilvaresmhbsp)
 
 - 💬 Pergunte-me sobre **Análise de Dados, Inteligência de Mercado, Power BI, SQL, Python**
 
