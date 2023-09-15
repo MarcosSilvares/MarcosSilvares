@@ -3,7 +3,7 @@
 
 - 🌱 No momento estou estudando **Python e Machine Learning**
 
-- 💬 Pergunte-me sobre **Análise de Dados, Inteligência de Mercado, Power BI, SQL, Python**
+- 💬 Pergunte-me sobre **Análise de Dados, Inteligência de Mercado, Power BI, ETL, Banco de Dados, Cloud Computing, SQL, Python**
 
 - 📫 Como chegar até mim **marcossilvaresmhbsp@gmail.com**
 
