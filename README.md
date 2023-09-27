@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, eu sou o Marcos Silvares!</h1>
 <h3 align="center">Sou apaixonado por dados, estatística e novas tecnologias!</h3>
 
-- 🌱 No momento estou estudando **Python e Machine Learning**
+- 🌱 No momento estou estudando **Big Data e Cloud**
 
-- 💬 Pergunte-me sobre **Análise de Dados, Inteligência de Mercado, Power BI, ETL, Banco de Dados, Cloud Computing, SQL, Python**
+- 💬 Pergunte-me sobre **Análise de Dados, Power BI, ETL, Banco de Dados, Cloud Computing, SQL, Python**
 
 - 📫 Como chegar até mim **marcossilvaresmhbsp@gmail.com**
 
